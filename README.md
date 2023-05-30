@@ -17,8 +17,8 @@ Installation
 Follow these steps to run the game:
 1) Ensure Python 3 is installed on your machine. If not, download and install it from python.org.
 3) you'll also need the termcolor package. Install it with pip using the following command: pip3 install termcolor
-4) navigate to a folder where you need to clone this folder
-5) Clone this repository : git clone https://github.com/JohnUja/wordleReplica
+4) navigate to a folder (your choice) where you'll need to clone this repository
+5) Clone this repository in that folder : git clone https://github.com/JohnUja/wordleReplica
 6) Navigate to the folder in your terminal where you cloned this repo 
 7) change directory into the repository folder you just cloned : cd wordleReplica
 8) run and play the game with  the following bash command : python3 main.py
