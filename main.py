@@ -27,7 +27,7 @@ def start_game():
     generatedwordcopy = list(generatedword)
     tries = 6
 
-    while tries >= 0:
+    while tries > 0:
         userinput = input("Enter your word guess. You have " + str(tries) + " guesses remaining: ").lower()
 
         if not userinput.isalpha():
